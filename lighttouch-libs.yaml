@@ -1,5 +1,5 @@
 ---
-repo: foundpatterns/torchbear
+repo: foundpatterns/lighttouch-libs
 labels:
 - name: size/0.0
   color: d4c5f9
@@ -53,12 +53,6 @@ labels:
   color: d4c5f9
 - name: track/not-reproducable
   color: d4c5f9
-- name: feature/bindings
-  color: d4c5f9
-- name: feature/cli
-  color: d4c5f9
-- name: feature/lib
-  color: d4c5f9
 - name: progress/0.25
   color: d4c5f9
 - name: progress/0.5
@@ -66,4 +60,10 @@ labels:
 - name: progress/0.75
   color: d4c5f9
 - name: progress/1
+  color: d4c5f9
+- name: feature/loader
+  color: d4c5f9
+- name: feature/external
+  color: d4c5f9
+- name: feature/system
   color: d4c5f9
