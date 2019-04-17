@@ -1,25 +1,25 @@
 repo: foundpatterns/lighttouch
 labels:
 - name: feature/config
-  color: 44d66d
+  color: d4c5f9
 - name: feature/external
   color: d4c5f9
 - name: feature/keys
-  color: 20af0e
+  color: d4c5f9
 - name: feature/loader
   color: d4c5f9
 - name: feature/loom
-  color: c44075
+  color: d4c5f9
 - name: feature/packages
-  color: bce2ff
+  color: d4c5f9
 - name: feature/system
   color: d4c5f9
 - name: feature/theme
-  color: c3e84c
+  color: d4c5f9
 - name: focus/performance
-  color: a9b8e8
+  color: d4c5f9
 - name: focus/sanity
-  color: aa75f9
+  color: d4c5f9
 - name: model/change
   color: d4c5f9
 - name: model/doc
@@ -37,7 +37,7 @@ labels:
 - name: model/task
   color: d4c5f9
 - name: progress/0.0
-  color: f299fc
+  color: d4c5f9
 - name: progress/0.25
   color: d4c5f9
 - name: progress/0.5
@@ -67,11 +67,11 @@ labels:
 - name: track/on-hold
   color: d4c5f9
 - name: track/ready
-  color: b4d345
+  color: d4c5f9
 - name: track/stale
   color: d4c5f9
 - name: track/upstream
-  color: 30138e
+  color: d4c5f9
 - name: track/wip
   color: d4c5f9
 - name: value/0.0
